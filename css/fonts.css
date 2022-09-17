@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@400;700&display=swap');
+@font-face {
+   font-family: 'Engine';
+   src: url('../fonts/Engine-Italic.woff2') format('woff2'),
+      url('../fonts/Engine-Italic.woff') format('woff');
+   font-weight: 400;
+   font-style: italic;
+   font-display: swap;
+}
+@font-face {
+   font-family: 'Engine';
+   src: url('../fonts/Engine-Regular.woff2') format('woff2'),
+      url('../fonts/Engine-Regular.woff') format('woff');
+   font-weight: 400;
+   font-style: normal;
+   font-display: swap;
+}
+@font-face {
+   font-family: 'UbuntuMono';
+   src: url('../fonts/UbuntuMono-BoldItalic.woff2') format('woff2'),
+      url('../fonts/UbuntuMono-BoldItalic.woff') format('woff');
+   font-weight: 700;
+   font-style: italic;
+   font-display: swap;
+}
+@font-face {
+   font-family: 'UbuntuMono';
+   src: url('../fonts/UbuntuMono-Italic.woff2') format('woff2'),
+      url('../fonts/UbuntuMono-Italic.woff') format('woff');
+   font-weight: 500;
+   font-style: italic;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: 'UbuntuMono';
+   src: url('../fonts/UbuntuMono-Bold.woff2') format('woff2'),
+      url('../fonts/UbuntuMono-Bold.woff') format('woff');
+   font-weight: 700;
+   font-style: normal;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: 'UbuntuMono';
+   src: url('../fonts/UbuntuMono-Regular.woff2') format('woff2'),
+      url('../fonts/UbuntuMono-Regular.woff') format('woff');
+   font-weight: 400;
+   font-style: normal;
+   font-display: swap;
+}
+@font-face {
+   font-family: 'ChristmasScriptC';
+   src: url('../fonts/ChristmasScriptC.woff2') format('woff2'),
+      url('../fonts/ChristmasScriptC.woff') format('woff');
+   font-weight: 400;
+   font-style: normal;
+   font-display: swap;
+}
+
+
+
+
+

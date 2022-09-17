@@ -1,0 +1,135 @@
+
+h1{
+   font-size: 35px;
+   text-align: center;
+   color: brown;
+   text-shadow: 7px -8px 3px #003;
+   margin: 20px 30px;
+}
+h1, h2{
+   font-family: "Kalam", sans-serif;
+   font-weight: 700;
+   letter-spacing: 5px;
+}
+h2{
+   font-size: 25px;
+   text-align: right;
+   margin-bottom: 20px;
+}
+h3{
+   font-family: 'Kalam', sans-serif;
+   font-weight: 400;
+   font-size: 20px;
+   text-align: left;
+   text-transform: uppercase;
+   margin-top: 20px;
+   margin-bottom: 35px;
+}
+ul{
+   font-family: "Engine", sans-serif;
+   font-weight: 400;
+   font-style: italic;
+   font-size: 20px;
+   color: #9852e7;
+   padding-left: 20px;
+   padding-bottom: 25px;
+   padding-top: 10px
+}
+li{
+   text-decoration: underline;
+}
+
+
+.header-body-text{
+   font-family: "Engine", sans-serif;
+   font-weight: 400;
+}
+.ubuntuMono-boldItalic{
+   font-family: "UbuntuMono", monospace;
+   font-weight: 700;
+   font-style: italic;
+   text-align: justify;
+}
+.ubuntuMono-italic{
+font-family: "UbuntuMono", monospace;
+font-weight: 500;
+font-style: italic;
+}
+.ubuntuMono-bold{
+   font-family: "UbuntuMono", monospace;
+   font-weight: 700;
+}
+.ubuntuMono-regular{
+   font-family: "UbuntuMono", monospace;
+   font-weight: 400;
+   
+}
+.christmas-script-c{
+   font-family: "ChristmasScriptC", fantasy;
+   font-weight: 400;
+   font-size: 24px;
+   letter-spacing: 3px;
+}
+p{
+   font-size: 20px;
+   text-indent: 20px;
+}
+.main-one-title{
+   color: rgba(155, 168, 51, 0.4);
+}
+.header-body > p{
+   color: rgb(83, 147, 147);
+   text-decoration: overline;
+}
+.header-body + p{
+   text-decoration: line-through;
+}
+.header-body ~ p{
+   color: burlywood;
+}
+.main-title + p{
+   text-transform: capitalize;
+   color:cornflowerblue;
+   line-height: 1;
+}
+.header-a{
+   font-size: 25px;
+   color: rgba(236, 181, 29, 0.5);
+   font-weight: 700;
+   text-shadow: 4px 5px 4px #033;
+   letter-spacing: 3px;
+}
+footer{
+   white-space: nowrap;
+   word-spacing: 20px;
+}
+.main-four{
+   background-color:bisque;
+   padding: 70px 50px;
+   margin-top: -27px;
+   margin-right: -35px;
+   margin-left: 35px;
+}
+.bcolor{
+   background-color: chartreuse;
+}
+body{
+   width: 1140px;
+   margin: 0 auto;
+}
+img{
+   margin-top: 20px;
+   margin-bottom: 20px;
+}
+.main-two-text, .text{
+   color: yellow;
+}
+.main-four > p{
+   text-transform: uppercase;
+}
+.main-four-test ~ p{
+   font-size: 30px;
+   text-decoration:underline;
+   background-color:aquamarine;
+   text-align: right;
+}
